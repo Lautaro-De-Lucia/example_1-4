@@ -3,7 +3,7 @@
 
 DigitalIn gasDetector(D2);
 DigitalIn overTempDetector(D3);
-
+//
 // Agrupamos aButton, bButton, cButton, dButton en un solo BusIn
 BusIn buttonBus(D4, D5, D6, D7);
 
